@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697380027 source:d:\kuliah\semester v\komputer grafik\hw3\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	<iomanip>
+	<iostream>
+
