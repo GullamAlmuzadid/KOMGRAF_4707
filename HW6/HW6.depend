@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700296738 source:c:\c++ p5\hw6\main.cpp
+	<iostream>
+	<cmath>
+
+1700650476 source:d:\kuliah\semester v\komputer grafik\hw6\hw6\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
